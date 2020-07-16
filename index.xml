@@ -6,7 +6,7 @@
     <description>Recent content on Writings of mciiv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2020 19:20:48 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2020 20:05:24 +0800</lastBuildDate>
     
 	<atom:link href="https://mciiv.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,10 @@
     <item>
       <title>Hello</title>
       <link>https://mciiv.github.io/post/hello/</link>
-      <pubDate>Thu, 16 Jul 2020 19:20:48 +0800</pubDate>
+      <pubDate>Thu, 16 Jul 2020 20:05:24 +0800</pubDate>
       
       <guid>https://mciiv.github.io/post/hello/</guid>
-      <description>Hello, there.</description>
+      <description>Hello, there. I will post new writtings in this blog.</description>
     </item>
     
   </channel>
