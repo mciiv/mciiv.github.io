@@ -6,18 +6,18 @@
     <description>Recent content on Writings of mciiv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2020 20:05:24 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2020 20:26:08 +0800</lastBuildDate>
     
 	<atom:link href="https://mciiv.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello</title>
-      <link>https://mciiv.github.io/post/hello/</link>
-      <pubDate>Thu, 16 Jul 2020 20:05:24 +0800</pubDate>
+      <title>「翻译」 Keeping Your Modules Compatible</title>
+      <link>https://mciiv.github.io/post/translate-module-compatibility/</link>
+      <pubDate>Thu, 16 Jul 2020 20:26:08 +0800</pubDate>
       
-      <guid>https://mciiv.github.io/post/hello/</guid>
-      <description>Hello, there. I will post new writtings in this blog.</description>
+      <guid>https://mciiv.github.io/post/translate-module-compatibility/</guid>
+      <description>Keeping Your Modules Compatible是Go官方博客中Go Moudles系列教程的第5篇，但其实跟Go Modules本身关系并不大，介绍了开发者如何在模</description>
     </item>
     
   </channel>
